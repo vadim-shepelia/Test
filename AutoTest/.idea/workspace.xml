@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6f8e65b-ad55-40a4-b281-0f33568cf7d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ghBXbICoR1fhrFwql1DkMAHrXr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Games" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Mocha.Test_KYIVSAT.sms ">
+    <configuration name="test" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="test" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="Авто тесты .should demonstrate the addValue command" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/specs/basic.js</test-file>
+      <test-names>
+        <name value="Авто тесты " />
+        <name value="should demonstrate the addValue command" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Авто тесты .should detect if an element is enabled" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/specs/basic.js</test-file>
+      <test-names>
+        <name value="Авто тесты " />
+        <name value="should detect if an element is enabled" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Авто тесты .should have the right title" type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/specs/basic.js</test-file>
+      <test-names>
+        <name value="Авто тесты " />
+        <name value="should have the right title" />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_KYIVSAT.sms " type="mocha-javascript-test-runner" temporary="true" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>TEST</test-kind>
+      <test-file>$PROJECT_DIR$/test/specs/kyivstar_prod.js</test-file>
+      <test-names>
+        <name value="Test_KYIVSAT" />
+        <name value="sms " />
+      </test-names>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.test" />
+        <item itemvalue="Mocha.Test_KYIVSAT.sms " />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6f8e65b-ad55-40a4-b281-0f33568cf7d0" name="Default Changelist" comment="" />
+      <created>1598556983909</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598556983909</updated>
+      <workItem from="1598556985162" duration="2241000" />
+      <workItem from="1598613509737" duration="13504000" />
+      <workItem from="1598879069226" duration="4415000" />
+      <workItem from="1598898900004" duration="2688000" />
+      <workItem from="1598950361757" duration="419000" />
+      <workItem from="1598950942478" duration="6581000" />
+      <workItem from="1598967830533" duration="4185000" />
+      <workItem from="1599052826209" duration="5833000" />
+      <workItem from="1599498916392" duration="3329000" />
+      <workItem from="1600008057088" duration="261000" />
+      <workItem from="1600181450738" duration="525000" />
+      <workItem from="1600267978379" duration="6821000" />
+      <workItem from="1600444640898" duration="1120000" />
+      <workItem from="1600584264788" duration="499000" />
+      <workItem from="1600584859150" duration="22600000" />
+      <workItem from="1600863711126" duration="2251000" />
+      <workItem from="1601478266693" duration="1487000" />
+      <workItem from="1601815083415" duration="335000" />
+      <workItem from="1601815454760" duration="1418000" />
+      <workItem from="1601817794660" duration="1786000" />
+      <workItem from="1601819639340" duration="1775000" />
+      <workItem from="1601835071648" duration="866000" />
+      <workItem from="1601963308772" duration="618000" />
+      <workItem from="1603123912555" duration="131000" />
+      <workItem from="1603124110751" duration="2150000" />
+      <workItem from="1603204098185" duration="3283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2679" y="229" key="#JSON" timestamp="1599054438947">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2679" y="229" key="#JSON/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1599054438947" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599499205240">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1599499205240" />
+    <state x="533" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601478329309">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="533" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601478329309" />
+    <state x="548" y="179" key="FileChooserDialogImpl" timestamp="1601479165921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="179" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601479165921" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom" timestamp="1603218819728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="556" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600868504433" />
+    <state width="1515" height="411" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598968592010" />
+    <state width="1899" height="182" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600695071800" />
+    <state width="1515" height="2" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603218819728" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center" timestamp="1603218819727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="556" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600868504432" />
+    <state width="1515" height="411" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598968592010" />
+    <state width="1899" height="182" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600695071800" />
+    <state width="1515" height="2" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603218819727" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left" timestamp="1603218819725">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="556" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600868504431" />
+    <state width="1515" height="411" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598968592009" />
+    <state width="1899" height="182" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600695071799" />
+    <state width="1515" height="2" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603218819725" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right" timestamp="1603218819727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1899" height="556" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1600868504433" />
+    <state width="1515" height="411" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1920.1040@0.0.1536.824" timestamp="1598968592010" />
+    <state width="1899" height="182" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1600695071800" />
+    <state width="1515" height="2" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603218819727" />
+    <state width="1515" height="364" key="GridCell.Tab.1.bottom" timestamp="1600802328153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600802328153" />
+    <state width="1515" height="364" key="GridCell.Tab.1.center" timestamp="1600802328153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1600802328153" />
+    <state width="1515" height="364" key="GridCell.Tab.1.left" timestamp="1600802328152">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1600802328152" />
+    <state width="1515" height="364" key="GridCell.Tab.1.right" timestamp="1600802328153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1600802328153" />
+    <state width="1515" height="364" key="GridCell.Tab.2.bottom" timestamp="1600802328154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600802328154" />
+    <state width="1515" height="364" key="GridCell.Tab.2.center" timestamp="1600802328153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1600802328153" />
+    <state width="1515" height="364" key="GridCell.Tab.2.left" timestamp="1600802328153">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1600802328153" />
+    <state width="1515" height="364" key="GridCell.Tab.2.right" timestamp="1600802328154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1600802328154" />
+    <state width="1515" height="364" key="GridCell.Tab.3.bottom" timestamp="1600802328155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1600802328155" />
+    <state width="1515" height="364" key="GridCell.Tab.3.center" timestamp="1600802328155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1600802328155" />
+    <state width="1515" height="364" key="GridCell.Tab.3.left" timestamp="1600802328154">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1600802328154" />
+    <state width="1515" height="364" key="GridCell.Tab.3.right" timestamp="1600802328155">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="364" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1600802328155" />
+    <state x="277" y="57" key="SettingsEditor" timestamp="1603124130799">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603124130799" />
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599500021592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="320" y="141" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1599500021592" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603204144853">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603204144853" />
+  </component>
+</project>
