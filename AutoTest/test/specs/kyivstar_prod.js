@@ -27,7 +27,9 @@ describe('Test_KYIVSAT', () => {
         let button_CommonQuestions = $(`[href="#rec229886042"]`)
 
         button_HowToProtect.isClickable();
+            //npm install @wdio/cliexpectChai(button_HowToProtect).to.be.click(true);
         buttob_WhatIsIncluded.isClickable();
+           // expectChai(buttob_WhatIsIncluded).to.be.isClickable(true)
         button_Subscriptions.isClickable();
         button_IfPhoneIsLost.isClickable();
         button_CommonQuestions.isClickable();

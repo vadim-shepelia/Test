@@ -206,7 +206,7 @@ xit('should demonstrate the addValue command',() =>{
         let textNameTwo = $(`.aquest_wrapper`).getHTML(false)
         console.log(`Второй текс` + textNameTwo);
     })
-    it('houme word afte 13 lessons', () =>{
+    xit('houme word afte 13 lessons', () =>{
         browser.url(`https://webdriver.io/docs/api.html`);
         let windowFirst = browser.getWindowHandle()
 
@@ -221,7 +221,12 @@ xit('should demonstrate the addValue command',() =>{
         console.log(elenetIsDisplayed);
 
         browser.switchToWindow('windowFirst')
+  
 
-
-    } )
+    } )  
+    it('lessons' , () =>{
+        browser.url(`https://www.safemobile.activ.kz`);
+        let apstor = $(`//*[@id="rec249574238"]/div/div/div[4]/a/img`)
+        apstor.click()
+    })
 })
